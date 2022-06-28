@@ -1,0 +1,32 @@
+@charset "UTF -8";
+
+*{
+    margin: 0px;
+    height: 0px;
+}
+body{
+    line-height: 10px;
+}
+header{
+    min-height: 150px;
+    width: auto;
+    background-color: rgb(255, 255, 255)
+}
+
+nav{
+    padding: 30px;
+    background-color: #19211af5;
+    text-align: justify;
+    color: white;
+    height: auto;
+    box-shadow: 1px 1px 1px black;
+}
+a{
+    color: white;
+    text-decoration: none;
+    line-height: 10%;
+}
+ a:hover{
+
+    text-decoration: underline;
+ }
