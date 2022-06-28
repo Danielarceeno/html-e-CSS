@@ -21,6 +21,10 @@ nav{
     height: auto;
     box-shadow: 1px 1px 1px black;
 }
+a#um{
+    color: aqua;
+    padding: 30px;
+}
 a{
     color: white;
     text-decoration: none;
